@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me about Redhat certification , Devops , Cloud , Web app pentesting
 - 📫 How to reach me: pramodpradhankumar@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Quote: The more you sweat in peace the least you bleed in war
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NINJAFURRY&count_private=true&show_icons=true&theme=radical)
 
@@ -20,7 +20,7 @@
                                                                                   <h1 align="center">Hi 👋, I'm Pramod</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
-<h3 align="left">Connect with me: pramodpradhankumar@gmail.com</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
   <a href="https://twitter.com/@ninjafurry5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ninjafurry5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pramod-kumar-pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod-kumar-pradhan" height="30" width="40" /></a>
