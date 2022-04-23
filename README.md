@@ -6,9 +6,11 @@
 **NINJAFURRY 
 ### Hi there 👋
 
+I am Pramod a passoniate and hardworking nerd. Woking towards DevOps and Opnehsift . 
+
 - 🔭 I’m currently looking for oppertinity as a DevOps engineer or Openshift engineer
 - 🌱 I’m currently learning DevOps
-- 💬 Ask me about Redhat certification , Devops , Cloud , Web app pentesting
+- 💬 Ask me about Redhat , Devops , Cloud , Web app pentesting
 - 📫 How to reach me: pramodpradhankumar@gmail.com
 - ⚡ Quote: The more you sweat in peace the least you bleed in war
 
@@ -17,7 +19,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NINJAFURRY&show_icons=true&theme=radical)
 
                                                                                   
-                                                                                  <h1 align="center">Hi 👋, I'm Pramod</h1>
+<h1 align="center">Hi 👋, I'm Pramod</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
 <h3 align="left">Connect with me: </h3>
