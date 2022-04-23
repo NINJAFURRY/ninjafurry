@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/NINJAFURRY/ninjafurry/864ba26c5a7d9a1924e67d0a0aa77f541227252a/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(3).png)
 
 
-<h1 align="center">Hi 👋, I'm Pramod</h1>
+<h1 align="center">Hi 👋, I'm  Pramod</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 <h3 align="left">Connect with me:  </h3>
 <p align="left">
