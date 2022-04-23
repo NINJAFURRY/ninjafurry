@@ -1,4 +1,5 @@
-<img src="https://github.com/NINJAFURRY/ninjafurry/blob/864ba26c5a7d9a1924e67d0a0aa77f541227252a/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(3).png">
+![MasterHead](https://raw.githubusercontent.com/NINJAFURRY/ninjafurry/864ba26c5a7d9a1924e67d0a0aa77f541227252a/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(3).png)
+#<img src="https://github.com/NINJAFURRY/ninjafurry/blob/864ba26c5a7d9a1924e67d0a0aa77f541227252a/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(3).png">
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/-Ansible-EE0000?logo=Ansible&logoColor=fff">
