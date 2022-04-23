@@ -1,12 +1,14 @@
 ![MasterHead](https://raw.githubusercontent.com/NINJAFURRY/ninjafurry/864ba26c5a7d9a1924e67d0a0aa77f541227252a/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(3).png)
 
 
-
-
-**NINJAFURRY 
-### Hi there 👋
-
-I am Pramod a passoniate and hardworking nerd. Woking towards DevOps and Opnehsift . 
+<h1 align="center">Hi 👋, I'm Pramod</h1>
+<h3 align="center">A passionate DevOps engineer from India</h3>
+<h3 align="left">Connect with me: Error Error Error I don't like it I avoid but Error likes me I can't avoid  </h3>
+<p align="left">
+  <a href="https://twitter.com/@ninjafurry5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ninjafurry5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pramod-kumar-pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod-kumar-pradhan" height="30" width="40" /></a>
+</p>
+ 
 
 - 🔭 I’m currently looking for oppertinity as a DevOps engineer or Openshift engineer
 - 🌱 I’m currently learning DevOps
@@ -16,17 +18,11 @@ I am Pramod a passoniate and hardworking nerd. Woking towards DevOps and Opnehsi
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NINJAFURRY&count_private=true&show_icons=true&theme=radical)
 
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NINJAFURRY&show_icons=true&theme=radical)
 
                                                                                   
-<h1 align="center">Hi 👋, I'm Pramod</h1>
-<h3 align="center">A passionate DevOps engineer from India</h3>
 
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-  <a href="https://twitter.com/@ninjafurry5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ninjafurry5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pramod-kumar-pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod-kumar-pradhan" height="30" width="40" /></a>
-</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
