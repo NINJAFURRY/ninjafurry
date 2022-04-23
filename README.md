@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NINJAFURRY&count_private=true&show_icons=true&theme=radical)
+
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NINJAFURRY&show_icons=true&theme=radical)
