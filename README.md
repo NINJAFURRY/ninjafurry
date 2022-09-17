@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://twitter.com/@ninjafurrry" target="blank"><img align="center" src="https://user-images.githubusercontent.com/50458473/190843880-2f83f752-96f3-44b3-a23f-b13a125847bd.jpg" alt="@ninjafurrry" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/pramod-kumar-pradhan" target="blank"><img align="center" src="https://user-images.githubusercontent.com/50458473/190844012-55d8c113-49e0-42e0-9a5f-b60962e4bce8.png" alt="pramod-kumar-pradhan" height="40" width="40" /></a>
-  <a href="https://www.credly.com/users/pramod-kumar-pradhan"><img src="https://user-images.githubusercontent.com/50458473/190853750-2489e7c7-78af-488c-b39c-becc9cc81c55.png" alt="credly" height=40 width=40></a>
+  <a href="https://www.credly.com/users/pramod-kumar-pradhan"><img align="center" src="https://user-images.githubusercontent.com/50458473/190853750-2489e7c7-78af-488c-b39c-becc9cc81c55.png" alt="credly" height=40 width=40></a>
 </p>
  
 
