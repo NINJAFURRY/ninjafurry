@@ -9,6 +9,7 @@
 <p align="left">
   <a href="https://twitter.com/@ninjafurrry" target="blank"><img align="center" src="https://user-images.githubusercontent.com/50458473/190843880-2f83f752-96f3-44b3-a23f-b13a125847bd.jpg" alt="@ninjafurrry" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/pramod-kumar-pradhan" target="blank"><img align="center" src="https://user-images.githubusercontent.com/50458473/190844012-55d8c113-49e0-42e0-9a5f-b60962e4bce8.png" alt="pramod-kumar-pradhan" height="40" width="40" /></a>
+  <a href="https://www.credly.com/users/pramod-kumar-pradhan">My digital badge" <img src="https://user-images.githubusercontent.com/50458473/190853750-2489e7c7-78af-488c-b39c-becc9cc81c55.png" alt="credly" height=40 width=40></a>
 </p>
  
 
@@ -23,7 +24,7 @@
 
 
 
-<a href="https://www.credly.com/users/pramod-kumar-pradhan">My digital badge</a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://user-images.githubusercontent.com/50458473/190852336-a587859c-8fd0-4a3e-bc92-e5ecae642dfb.png" alt="C" width=50 height=40/> <img src="https://user-images.githubusercontent.com/50458473/190852390-e1e4cf5c-009c-41a9-8842-4c7fc6c6cfd9.png" alt="openshift" width=40 height=40/> <img src="https://user-images.githubusercontent.com/50458473/190852450-633dc76e-1442-4587-9764-9c0563a57272.jpg" alt="redhat" width=40 height=40/> <img src="https://user-images.githubusercontent.com/50458473/190852513-432cabe0-7690-4884-9186-de5ac0de500e.png" alt="burpsuite" width=40 height=40/> <a href="https://github.com/NINJAFURRY/ninjafurry/blob/main/aws.png" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/-Ansible-EE0000?logo=Ansible&logoColor=fff"><img src="https://user-images.githubusercontent.com/50458473/190844085-e9a35761-4eab-4347-b812-ea71115df27a.png" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://user-images.githubusercontent.com/50458473/190844174-a10393a8-808a-4bc7-865f-dacc9595c920.svg"
