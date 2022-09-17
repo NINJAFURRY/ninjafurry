@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:  </h3>
 <p align="left">
   <a href="https://twitter.com/@ninjafurrry" target="blank"><img align="center" src="https://user-images.githubusercontent.com/50458473/190843880-2f83f752-96f3-44b3-a23f-b13a125847bd.jpg" alt="@ninjafurrry" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/pramod-kumar-pradhan" target="blank"><img align="center" src="https://user-images.githubusercontent.com/50458473/190843974-ff492c75-782d-4f1d-845e-580b5574eaa2.png" alt="pramod-kumar-pradhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pramod-kumar-pradhan" target="blank"><img align="center" src="https://user-images.githubusercontent.com/50458473/190843974-ff492c75-782d-4f1d-845e-580b5574eaa2.png" alt="pramod-kumar-pradhan" height="40" width="40" /></a>
 </p>
  
 
