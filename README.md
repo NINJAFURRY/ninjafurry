@@ -23,7 +23,7 @@
 
 
 
-<p>you can check my digital bedge here <a href="https://www.credly.com/users/pramod-kumar-pradhan" alt="credly"></a>
+<p>you can check my digital bedge here <a href="https://www.credly.com/users/pramod-kumar-pradhan">you can check my digital bedge here</a></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://user-images.githubusercontent.com/50458473/190852336-a587859c-8fd0-4a3e-bc92-e5ecae642dfb.png" alt="C" width=50 height=40/> <img src="https://user-images.githubusercontent.com/50458473/190852390-e1e4cf5c-009c-41a9-8842-4c7fc6c6cfd9.png" alt="openshift" width=40 height=40/> <img src="https://user-images.githubusercontent.com/50458473/190852450-633dc76e-1442-4587-9764-9c0563a57272.jpg" alt="redhat" width=40 height=40/> <img src="https://user-images.githubusercontent.com/50458473/190852513-432cabe0-7690-4884-9186-de5ac0de500e.png" alt="burpsuite" width=40 height=40/> <a href="https://github.com/NINJAFURRY/ninjafurry/blob/main/aws.png" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/-Ansible-EE0000?logo=Ansible&logoColor=fff"><img src="https://user-images.githubusercontent.com/50458473/190844085-e9a35761-4eab-4347-b812-ea71115df27a.png" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://user-images.githubusercontent.com/50458473/190844174-a10393a8-808a-4bc7-865f-dacc9595c920.svg"
