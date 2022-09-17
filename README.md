@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/NINJAFURRY/ninjafurry/blob/main/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(4).png)
+![MasterHead]()![aws](https://user-images.githubusercontent.com/50458473/190843535-e3eb2a3d-09ba-447b-a463-865e215ab4b8.png)
+
 
 
 <h1 align="center">Hi 👋, I'm  Pramod</h1>
